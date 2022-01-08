@@ -1,4 +1,4 @@
-# Hi there, This is SMY 👋
+# Hi there! This is SMY 👋
 
 <h1 align="left">Personal Links</h1>
 
