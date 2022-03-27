@@ -70,9 +70,10 @@ Aside from my technical overview, I'm in 5th semester, pursuing Computer Science
    <img src="https://github-profile-trophy.vercel.app/?username=smyaseen&theme=flat&no-frame=true&margin-w=30" />
 </div>
 
-<!-- 
+<div style="visibility: hidden">
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
- -->
+</div>
+
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sm-y" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/sm-y?trk=profile-badge">Syed Muhammad Yaseen</a></div>
               
