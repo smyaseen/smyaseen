@@ -69,3 +69,5 @@ Aside from my technical overview, I'm in 5th semester, pursuing Computer Science
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=smyaseen&theme=flat&no-frame=true&margin-w=30" />
 </div>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
