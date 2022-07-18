@@ -16,24 +16,15 @@ Catch me on
 
 Hi, This is SMY! 👋
 
-A Front-end Intern @ Nisum, A top IT consulting company. Furthermore, I'm an undergrad of CS and a tech enthusiast. I spend my time learning and practicing competitive skills, gaining knowledge and building projects. Moreover, I am currently focused in learning:
+A Software Engineer @ Nisum, A top IT consulting company. Furthermore, I'm an undergrad of CS and a tech enthusiast. I spend my time learning and practicing competitive skills, gaining knowledge and building projects. Moreover, I am currently focused in learning:
 
-• Java with its ecosystem including Spring Framework
-• Web Development
-• Linux (Ubuntu)
-• Git
-• HTML, CSS, Bootstrap, JavaScript and React
+• Node.js
+• ExpressJS 
+• AWS
+• Solidity
+• Blockchain
 
-Furthermore, I will be learning in future:
-
-• Cloud - AWS
-• MERN stack
-• Full stack SaaS with Java, Spring and React
-• CI/CD and TDD
-• Docker and Kubernetes
-• Python, AI and Machine Learning
-
-Aside from my technical overview, I'm in 5th semester, pursuing Computer Science from SZABIST Karachi Campus.
+Aside from my technical overview, I'm in final year, pursuing Computer Science from SZABIST Karachi Campus.
 
 # Tech Stack
 
