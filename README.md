@@ -5,7 +5,7 @@
 Catch me on
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/syed-muhammad-yaseen/"><img title="Follow SMY on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sm-y/"><img title="Follow SMY on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:smyaseen164@gmail.com"><img title="Email SMY on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.upwork.com/freelancers/~0120c7b3eef315ce13"><img title="Connect SMY on Upwork" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
    
@@ -14,17 +14,35 @@ Catch me on
 
 <h1 align="left">Biography</h1>
 
-Hi, This is SMY! 👋
+Hi there 👋 This is SMY 
 
-A Software Engineer @ Nisum, A top IT consulting company. Furthermore, I'm an undergrad of CS and a tech enthusiast. I spend my time learning and practicing competitive skills, gaining knowledge and building projects. Moreover, I am currently focused in learning:
+Curious to know my standout highlights? Let me share some with you:
 
-• Node.js
-• ExpressJS 
-• AWS
-• Solidity
-• Blockchain
+🎯 Professional Experience:
 
-Aside from my technical overview, I'm in final year, pursuing Computer Science from SZABIST Karachi Campus.
+❯ Software Engineer with 2+ years of expertise in the JavaScript ecosystem (BE / FE / AWS). Consistently delivers high-quality SaaS applications by developing, testing, documenting, and maintaining while ensuring code quality and reliability through unit testing.
+
+❯ Regularly learning and upskilling myself on various technical and soft skills by participating in initiatives, courses, and developing POCs.
+
+🎯 Academic Experience:
+
+❯ Pursued a Bachelor of Science in Computer Science with a 3.72 CGPA and four-time Merit Scholarship holder.
+
+❯ My academic accomplishments have been further recognized with awards, and I have actively contributed as a volunteer, expanding my horizons beyond traditional educational boundaries.
+
+🎯 Publications:
+
+❯ Passionate about leveraging technology to drive positive change, I am an avid writer and community contributor. I love sharing my insights, experiences, and knowledge through thought-provoking articles and engaging discussions. 
+
+❯ Discover a collection of my insightful articles on various topics by visiting my profile on hashnode 🌐 https://smy.hashnode.dev/
+
+🎯 Interests:
+
+❯ At 4 years old, I was fascinated by computers, starting with gaming on DOS and exploring Pentium III, solidifying my fascination and paving the way for a lifelong journey.
+
+❯ Fast forward to today, and I find myself immersed in the ever-evolving landscape of technology. I'm passionate about leveraging technology to solve real-world challenges and make a positive difference in our interconnected world.
+
+👋 If you're passionate about technology too, or if you're eager to explore the vast opportunities it presents, let's connect 🤝
 
 # Tech Stack
 
@@ -54,8 +72,11 @@ Aside from my technical overview, I'm in final year, pursuing Computer Science f
 
 <h1 align="left">GitHub Statistics</h1>
 
-[![SMY's github activity graph](https://activity-graph.herokuapp.com/graph?username=smyaseen&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![smyaseen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=smyaseen&theme=vue-dark&hide_border=true)
 
+![smyaseen's Stats](https://github-readme-stats.vercel.app/api?username=smyaseen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![smyaseen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smyaseen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=smyaseen&theme=flat&no-frame=true&margin-w=30" />
