@@ -1,9 +1,5 @@
 # Hi there! This is SMY 👋
 
-### This is my personal profile - for green graph => Have a look at my work Profile:
-
-https://github.com/yaseen-mergn
-
 
 <h1 align="left">Personal Links</h1>
 
