@@ -20,7 +20,7 @@ Curious to know my standout highlights? Let me share some with you:
 
 🎯 Professional Experience:
 
-❯ Software Engineer with 4+ years of expertise in the JavaScript ecosystem (BE / FE / AWS). Consistently delivers high-quality SaaS applications by developing, testing, documenting, and maintaining while ensuring code quality and reliability through unit testing.
+❯ Software Engineer with 5+ years of expertise in the JavaScript ecosystem (BE / FE / AWS). Consistently delivers high-quality SaaS applications by developing, testing, documenting, and maintaining while ensuring code quality and reliability through unit testing.
 
 ❯ Regularly learning and upskilling myself on various technical and soft skills by participating in initiatives, courses, and developing POCs.
 
